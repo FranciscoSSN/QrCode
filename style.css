@@ -67,7 +67,7 @@ body {
     }
 
     .content-qr {
-        background: var(--grayish-blue);
+        background: var(--dark-blue);
         height: 270px;
         border-radius: 5px;
         margin-bottom: 20px;
