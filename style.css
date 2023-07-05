@@ -14,6 +14,7 @@
 body {
     font-family: 'Outfit', sans-serif;
     background: var(--light-gray);
+    font-size: 20px;
 }
 
 .content-conteiner {
@@ -27,7 +28,7 @@ body {
 }
 
 .content-qr {
-    background: var(--grayish-blue);
+    background: var(--dark-blue);
     height: 270px;
     border-radius: 5px;
     margin-bottom: 20px;
@@ -40,12 +41,10 @@ body {
 }
 
 .content-conteiner h2 {
-    font-size: 15px;
     font-weight: 700;
 }
 
 .content-conteiner p {
-    font-size: 15px;
     font-weight: 400;
     color: var(--grayish-blue);
     line-height: 20px;
